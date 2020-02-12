@@ -1,0 +1,17 @@
+{
+  "name": "bobbabot",
+  "version": "0.0.1",
+  "description": "bot bobbacity",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaathisHD",
+  "license": "ISC"
+}
